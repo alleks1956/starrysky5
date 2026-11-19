@@ -78,3 +78,4 @@ class TripodService : Service() {
         const val EXTRA_INTERVAL = "interval"
     }
 }
+
